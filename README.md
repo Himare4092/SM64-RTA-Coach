@@ -2,7 +2,10 @@
 
 スーパーマリオ64 RTA の通し走行を AI が解析し、**「良い点(続けるべきこと)」と「改善点」を日本語でまとめてくれる** Windows 用デスクトップアプリです。
 
-対応カテゴリ: **0 Star / 1 Star / 16 Star / 70 Star / 120 Star**
+対応カテゴリ:
+
+- **メインカテゴリー**: 0 Star / 1 Star / 16 Star / 70 Star / 120 Star
+- **サブカテゴリー**: 15 Star / 16 Star NO LBLJ / 30 Star / 31 Star / 45 Star / 50 Star / 90 Star
 
 ## 何ができるの?
 
